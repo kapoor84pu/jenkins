@@ -12,4 +12,9 @@ public class HelloWorldTest {
         Assert.assertEquals(helloWorld.getMessage(), "hello world");
     }
 
+    @Test
+    public void testAnotherHelloWorld(){
+        Assert.assertEquals(helloWorld.getAnotherMessage(), "another hello world");
+    }
+
 }
