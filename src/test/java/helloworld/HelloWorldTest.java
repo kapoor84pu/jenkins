@@ -9,7 +9,7 @@ public class HelloWorldTest {
 
     @Test
     public void testHelloWorld(){
-        Assert.assertEquals(helloWorld.getMessage(), "hello wworld");
+        Assert.assertEquals(helloWorld.getMessage(), "hello world");
     }
 
     @Test

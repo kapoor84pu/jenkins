@@ -129,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/helloworld/HelloWorldTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+              <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
               <folding>
                 <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#273#274#0" expanded="true" />
@@ -559,7 +559,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545933679536" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545934145622" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -635,7 +635,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545763629556</updated>
-      <workItem from="1545763631736" duration="2664000" />
+      <workItem from="1545763631736" duration="2821000" />
     </task>
     <servers />
   </component>
@@ -648,7 +648,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2664000" />
+    <option name="totallyTimeSpent" value="2821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="248" y="23" width="987" height="705" extended-state="0" />
@@ -735,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/helloworld/HelloWorldTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
           <folding>
             <element signature="e#198#199#0" expanded="true" />
             <element signature="e#273#274#0" expanded="true" />
